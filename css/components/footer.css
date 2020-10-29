@@ -1,0 +1,15 @@
+.footer {
+  text-align: center;
+  padding: 35px;
+  background-color: #795BD0;
+}
+
+.footer a {
+  font-size: 30px;
+  color: white;
+}
+
+.footer a:hover {
+  opacity: 0.4;
+  color: #795BD0;
+}
